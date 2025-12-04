@@ -1,0 +1,31 @@
+{
+  "ads":[
+    {"id":1,
+    "title": "Elite Daily tips",
+    "description:" "Get Vip high-odds tips updated daily.pay via Mpesa to unlock",
+    "price" :500,
+    "payment number": "254710372612",
+    "image":"assets/ads/vip.png" 
+    "link":"https://wa.me/254710372612?text=1%20want%20VIP%20predictions"
+},
+{
+  "id":2
+  "title":"Jackpot Mega Tips",
+  "description":"Sportpesa & Betika jackpot predictions.pay and receive instantly.",
+  "price":200,
+  "payment_number":"254710372612",
+  "image":"assets/ads/jackpot.png",
+  "link":"https://wa.me/254710372612?text=1%20want%20jackpot%20predictions"
+},
+
+{
+  "id":3,
+  "title":"Weekend ACCA Boost",
+  "description":"7+odds accumulator every weekend.updated automatically.",
+  "price":400,
+  "payment number":"254710372612",
+  "image":"assets/ads/weekend.png",
+  "link":"https://wa.me/254710372612?text=1%20want%20the%Weekend%20ACCA"
+}
+]
+}

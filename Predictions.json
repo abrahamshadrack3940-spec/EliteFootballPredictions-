@@ -1,0 +1,19 @@
+[
+  {"Match":"Arsenal vs Chelsea",
+  "Prediction":"Arsenal win",
+  "Confidence":"78%",
+  "League":"Premier League"
+  },
+  {
+    "Match":"Barcelona vs Sevilla",
+    "Prediction":"Over 2.5 goals",
+    "Confidence":"82%",
+    "League":"Laliga"
+  },
+  {
+    "Match":"Inter vs Milan",
+    "Prediction":"Draw",
+    "Confidence":"65%",
+    "League":"Serie A"
+  }
+  ]
